@@ -1,7 +1,7 @@
 // 2. DayNightController.cs
 using UnityEngine;
 
-/// Listens to the TimeManager and smoothly updates the Directional Light's rotation, color, and intensity.
+// Listens to the TimeManager and smoothly updates the Directional Light's rotation, color, and intensity.
 public class DayNightController : MonoBehaviour
 {
     [Header("Sun / Moon Light")]
